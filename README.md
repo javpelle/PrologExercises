@@ -1,2 +1,2 @@
 # PrologExercises
-Un poquito de código correspondientes a ejercicios del lenguaje Prolog.
+Un poquito de código correspondiente a ejercicios del lenguaje Prolog.
